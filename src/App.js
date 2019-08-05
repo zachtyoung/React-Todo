@@ -4,7 +4,7 @@ import TodoForm from './components/TodoComponents/TodoForm'
 import './components/TodoComponents/Todo.css'
 
 const todos =[{
-  task: "Make dinner",
+  task: "My First Todo",
   id: Date.now(),
   completed:false
 }
